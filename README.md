@@ -2,6 +2,12 @@
 
 A lightweight macOS menu-bar app for monitoring a TrueNAS SCALE server. It lives in the status bar, surfaces active alert counts at a glance, and opens a popover with a live dashboard of pools, apps, and realtime system stats.
 
+[![Download on the Mac App Store](https://tools.applemarketingtools.com/api/badges/download-on-the-mac-app-store/black/en-us)](https://apps.apple.com/app/truestats/id6768550745)
+
+## Download
+
+TrueStats is available on the [Mac App Store](https://apps.apple.com/app/truestats/id6768550745). To build it yourself instead, see [Building](#building).
+
 ## Features
 
 - **Dashboard** — system info, pool health, alerts, and a list of installed apps with per-app live CPU/memory.
